@@ -158,6 +158,7 @@
     <Compile Include="App_Start\AppServiceBase.cs" />
     <Compile Include="App_Start\WebServiceExamples.cs" />
     <Compile Include="Controllers\AppControllerBase.cs" />
+    <Compile Include="Controllers\Attributes\UserActionAttribute.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
